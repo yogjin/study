@@ -1,5 +1,5 @@
 //2020.12.08 금요일
-//Java Comparator 연습
+//Java Comparator 연습,(람다식)
 import java.util.*;
 class Main {
   public static void main(String[] args) {
